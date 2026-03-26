@@ -61,7 +61,7 @@ The dataset contains customer-level information, including:
 ### 📷 Dashboard  
 The interactive dashboard provides a visual overview of bike sales data, allowing users to explore trends based on customer demographics such as age, income, commute distance, and region. Filters (slicers) enable dynamic analysis of different customer segments.
 
-![Bike Sales Dashboard](dashboard.png)
+![Bike Sales Dashboard](Dashboard.png)
 
 
 ### ✅ Conclusion
